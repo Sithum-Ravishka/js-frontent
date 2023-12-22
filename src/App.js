@@ -10,7 +10,7 @@ function App() {
     <Center className="App">
       <Container>
         {provedAccessBirthday ? (
-          <VcGatedContent />
+          <VcGatedContent />  //last conect lorder if...proof verification 
         ) : (
           <Card
             style={{

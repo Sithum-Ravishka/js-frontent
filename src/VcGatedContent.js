@@ -22,5 +22,5 @@ function VcGatedContent() {
     </div>
   );
 }
-
+// final web load page
 export default VcGatedContent;
